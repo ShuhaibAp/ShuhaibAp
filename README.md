@@ -1,10 +1,6 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg" />
-  <img alt="Shuhaib Ap, full-stack developer" src="assets/header-dark.svg" width="860" />
-</picture>
+<img alt="Shuhaib Ap, full-stack developer" src="assets/banner.svg" width="860" />
 
 <br />
 
@@ -22,11 +18,17 @@ My day-to-day is **Next.js + NestJS + MongoDB**, with payments, order flows and 
 - Admin tooling that non-technical teams can actually run a business from
 - Clean REST APIs, typed with TypeScript from database to UI
 
-## Tech stack
+## Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nestjs,nodejs,mongodb,python,django,git,vercel&perline=11" alt="Tech stack" />
-</p>
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/terminal-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/terminal-light.svg" />
+  <img alt="Tech stack: Next.js, React, Tailwind, NestJS, Node.js, MongoDB" src="assets/terminal-dark.svg" width="860" />
+</picture>
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nestjs,nodejs,mongodb,python,django,git,vercel&perline=11" alt="Tech stack icons" />
+</div>
 
 ## Public work
 
@@ -37,6 +39,12 @@ My day-to-day is **Next.js + NestJS + MongoDB**, with payments, order flows and 
 | [Kanben-task-manager](https://github.com/ShuhaibAp/Kanben-task-manager) | TypeScript |
 | [HM_AI](https://github.com/ShuhaibAp/HM_AI) | Python |
 
+## Contributions
+
 <div align="center">
-  <sub>Built by hand. The header above is a plain animated SVG, no third-party service.</sub>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShuhaibAp/ShuhaibAp/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShuhaibAp/ShuhaibAp/output/snake-light.svg" />
+  <img alt="Contribution graph with an animated snake" src="https://raw.githubusercontent.com/ShuhaibAp/ShuhaibAp/output/snake-light.svg" />
+</picture>
 </div>
