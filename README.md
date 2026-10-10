@@ -30,14 +30,20 @@ My day-to-day is **Next.js + NestJS + MongoDB**, with payments, order flows and 
 <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nestjs,nodejs,mongodb,python,django,git,vercel&perline=11" alt="Tech stack icons" />
 </div>
 
-## Public work
+## Featured project
 
-| Project | Stack |
-| --- | --- |
-| [cynosure-customer](https://github.com/ShuhaibAp/cynosure-customer) | JavaScript |
-| [cynosure-server](https://github.com/ShuhaibAp/cynosure-server) | TypeScript |
-| [Kanben-task-manager](https://github.com/ShuhaibAp/Kanben-task-manager) | TypeScript |
-| [HM_AI](https://github.com/ShuhaibAp/HM_AI) | Python |
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/project-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/project-light.svg" />
+  <img alt="Cynosure MIS, a B2B e-waste ERP and workflow system" src="assets/project-dark.svg" width="860" />
+</picture>
+
+<br />
+
+[![Customer portal](https://img.shields.io/badge/Customer_portal-cynosure--customer-0969da?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/ShuhaibAp/cynosure-customer)
+[![API](https://img.shields.io/badge/API-cynosure--server-e0234e?style=for-the-badge&logo=nestjs&logoColor=white)](https://github.com/ShuhaibAp/cynosure-server)
+</div>
 
 ## Contributions
 
