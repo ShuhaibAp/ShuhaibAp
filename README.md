@@ -43,8 +43,8 @@ My day-to-day is **Next.js + NestJS + MongoDB**, with payments, order flows and 
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShuhaibAp/ShuhaibAp/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShuhaibAp/ShuhaibAp/output/snake-light.svg" />
-  <img alt="Contribution graph with an animated snake" src="https://raw.githubusercontent.com/ShuhaibAp/ShuhaibAp/output/snake-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/snake-light.svg" />
+  <img alt="Contribution graph with an animated snake" src="assets/snake-light.svg" />
 </picture>
 </div>
